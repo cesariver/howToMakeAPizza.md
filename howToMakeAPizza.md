@@ -6,4 +6,4 @@ Enrolla los bordes de la pizza para cerrarla, encerrando un poco de queso para q
 Coloca las adiciones que desees, ya sean champiñones, pollo, peperoni, jalapeños, etc
 Pon la pizza en una parrilla a fuego medio-alto durante 10 minutos o hasta que esté dorado
 Saca la pizza de la parrilla y déjala reposar unos minutos antes de servir
-Sirve y disfruta
+Sirve y disfruta.
